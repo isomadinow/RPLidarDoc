@@ -16,3 +16,9 @@ source ./install/setup.bash
 ```no-highlight
 cd rplidar_ros/launch/
 ```
+Запускаем RPLidar
+
+```no-highlight
+ros2 launch rplidar_ros view_rplidar_a1_launch.py
+```
+![image](https://github.com/isomadinow/nano_jets/assets/88080221/165bce28-d89b-44b5-be91-332393011e94)
