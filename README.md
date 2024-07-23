@@ -1,4 +1,4 @@
-# Шаги подкючение RPLidar и Камеры к nano_jets
+# Шаги подкючение RPLidar к nano_jets
 Вначале инициализацируем ros2 
 ```no-highlight
 source /opt/ros/foxy/setup.bash
